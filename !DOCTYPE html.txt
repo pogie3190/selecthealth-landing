@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SelectHealth Broker - Get a Quote</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background-color: #006e96;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .cta a {
+      display: inline-block;
+      background-color: #006e96;
+      color: white;
+      text-decoration: none;
+      padding: 15px 30px;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+    .cta a:hover {
+      background-color: #005878;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Compare Health Plans with [Your Client’s Name]</h1>
+    <p>Your trusted SelectHealth licensed agent</p>
+  </header>
+
+  <section>
+    <h2>Why Work with Me?</h2>
+    <p>
+      I help individuals and families find the best coverage through SelectHealth. Whether you need ACA marketplace plans or private options, I’ll make the process simple and stress-free.
+    </p>
+
+    <div class="cta">
+      <a href="https://selecthealth.healthconnectsystems.com/IFP/IFPQuote.aspx?uc=209375" target="_blank">
+        Get an Instant Quote
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 [Your Client’s Agency Name] – All Rights Reserved
+  </footer>
+</body>
+</html>

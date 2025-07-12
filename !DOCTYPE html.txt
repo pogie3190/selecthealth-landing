@@ -54,9 +54,10 @@
 </head>
 <body>
   <header>
-    <h1>Compare Health Plans with [Your Client’s Name]</h1>
-    <p>Your trusted SelectHealth licensed agent</p>
-  </header>
+  <img src="Insuranceforlife Logo.png" alt="Insure For Health Logo" style="height: 60px; margin-bottom: 10px;">
+  <h1>SelectHealth Broker</h1>
+</header>
+
 
   <section>
     <h2>Why Work with Me?</h2>
